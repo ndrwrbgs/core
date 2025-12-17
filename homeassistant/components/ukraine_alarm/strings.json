@@ -4,7 +4,7 @@
       "already_configured": "[%key:common::config_flow::abort::already_configured_location%]",
       "cannot_connect": "[%key:common::config_flow::error::cannot_connect%]",
       "max_regions": "Max 5 regions can be configured",
-      "rate_limit": "Too much requests",
+      "rate_limit": "Too many requests",
       "timeout": "[%key:common::config_flow::error::timeout_connect%]",
       "unknown": "[%key:common::config_flow::error::unknown%]"
     },
