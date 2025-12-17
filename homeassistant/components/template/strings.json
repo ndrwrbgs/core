@@ -429,7 +429,7 @@
           "latest_version": "Defines a template to get the latest version.",
           "release_summary": "Defines a template to get the release summary.",
           "release_url": "Defines a template to get the release URL.",
-          "specific_version": "Enable or disable using the `version` variable with the `install` action. When disabled, the `specific_version` variable will always provide `None` in the `install` actions",
+          "specific_version": "Enable or disable using the `version` variable with the `install` action. When disabled, the `specific_version` variable will always provide `None` in `install` actions",
           "title": "Defines a template to get the update title.",
           "update_percentage": "Defines a template to get the update completion percentage."
         },
