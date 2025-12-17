@@ -117,7 +117,7 @@
     },
     "exceptions": {
       "oauth2_implementation_unavailable": {
-        "message": "OAuth2 implementation unavailable, will retry"
+        "message": "OAuth2 implementation unavailable; will retry"
       }
     },
     "generic": {
